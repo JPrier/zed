@@ -2,6 +2,19 @@
 
 Welcome to Zed's documentation.
 
+## 🤖 Agentic Coding Documentation
+
+Comprehensive guides on how Zed implements AI-powered code generation and editing:
+
+- **[AGENTIC_CODING_SUMMARY.md](./AGENTIC_CODING_SUMMARY.md)** - Start here! Navigation guide to all documentation
+- **[AGENTIC_CODING_ARCHITECTURE.md](./AGENTIC_CODING_ARCHITECTURE.md)** - Complete system architecture and implementation guide
+- **[AGENTIC_CODING_DIAGRAMS.md](./AGENTIC_CODING_DIAGRAMS.md)** - Visual diagrams showing data flow and component interactions
+- **[AGENTIC_CODING_EXAMPLES.md](./AGENTIC_CODING_EXAMPLES.md)** - Practical code examples for building your own system
+
+These documents explain in extreme detail how Zed's agentic coding works, from the tool system to LLM integration to the streaming edit agent. Perfect for understanding the system, extending it, or replicating it.
+
+---
+
 This is built on push to `main` and published automatically to [https://zed.dev/docs](https://zed.dev/docs).
 
 To preview the docs locally you will need to install [mdBook](https://rust-lang.github.io/mdBook/) (`cargo install mdbook@0.4.40`) and then run:
